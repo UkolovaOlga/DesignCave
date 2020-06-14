@@ -1,4 +1,4 @@
-# Design cave
+# Design Cave
 **Bitcoin is a luxury.** It's the core of New Economy. It's the fundamental part of an individual. 
 And being a sovereign individual is expensive and demands a lot of resources.
 You need to have patience and open mind to learn new things. You need to have creativity and diligence to create new tools. 
